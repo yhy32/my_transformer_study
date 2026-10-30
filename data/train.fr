@@ -1,0 +1,320 @@
+Bonjour.
+Bonjour.
+Bonsoir.
+Bonne nuit.
+Comment allez-vous ?
+Je vais bien.
+Merci.
+Merci beaucoup.
+De rien.
+Au revoir.
+À demain.
+Je m'appelle Paul.
+Comment vous appelez-vous ?
+Enchanté.
+Asseyez-vous, s'il vous plaît.
+Excusez-moi.
+Je suis désolé.
+Pas de problème.
+Oui.
+Non.
+C'est ma mère.
+C'est mon père.
+Mon frère est grand.
+Ma sœur est petite.
+J'ai deux enfants.
+Mon fils joue au football.
+Ma fille aime la musique.
+Ma grand-mère habite ici.
+Mon grand-père est vieux.
+Nous sommes une famille heureuse.
+Son mari travaille à Paris.
+Sa femme est médecin.
+Mon oncle a une ferme.
+Ma tante est professeur.
+Leurs enfants sont à l'école.
+J'aime mes parents.
+Il ressemble à son père.
+Elle ressemble à sa mère.
+Le bébé dort.
+Mon cousin est très gentil.
+J'ai faim.
+J'ai soif.
+Je veux de l'eau.
+Elle boit du café chaque matin.
+Nous mangeons du pain avec du beurre.
+La soupe est chaude.
+Cette pomme est sucrée.
+J'aime le fromage.
+Il prépare le dîner chaque soir.
+Le restaurant est fermé.
+Apportez le menu, s'il vous plaît.
+Je voudrais un verre de vin.
+Le gâteau est délicieux.
+Nous avons besoin de plus de sel.
+Il n'y a pas de lait dans le frigo.
+Ma mère fait du bon pain.
+Je mange du riz et du poisson.
+Les œufs sont sur la table.
+Les fruits sont bons pour la santé.
+Le dîner est prêt.
+Ce thé est trop froid.
+Il achète des légumes au marché.
+Je ne bois pas d'alcool.
+Le petit déjeuner était excellent.
+Elle coupe le pain.
+Le chat dort sur le canapé.
+Le chien court dans le jardin.
+Les oiseaux chantent le matin.
+Le cheval est très rapide.
+Une vache mange de l'herbe.
+La souris est petite.
+Les poissons vivent dans l'eau.
+Mon chat est noir.
+Le tigre est dangereux.
+Nous avons trois poules.
+Le lapin saute haut.
+Un éléphant est grand.
+Le garçon nourrit les canards.
+Je vois une abeille sur la fleur.
+Les moutons sont dans le champ.
+Il a un lapin blanc.
+Le loup vit dans la forêt.
+Mon chien aime la viande.
+Le lion est le roi des animaux.
+La grenouille est verte.
+J'habite dans une petite ville.
+La gare est près de l'hôtel.
+Où est la banque ?
+Le musée ouvre à neuf heures.
+Je prends le bus pour aller au travail.
+La rue est très bruyante.
+Nous marchons au parc.
+Le pont est vieux.
+Il y a un marché le dimanche.
+Mon bureau est au centre.
+L'aéroport est loin.
+Il conduit une voiture rouge.
+Le train arrive en retard.
+J'ai besoin d'un billet.
+La bibliothèque est calme.
+Tournez à gauche au coin.
+Le magasin ferme à huit heures.
+L'église se trouve sur la colline.
+Nous visitons le château aujourd'hui.
+La route est longue.
+Il y a beaucoup de gens ici.
+Le café est à côté de l'école.
+J'ai perdu mon billet.
+La ville est belle la nuit.
+Il traverse la place.
+Quelle heure est-il ?
+Il est trois heures.
+Aujourd'hui, c'est lundi.
+Demain, il fera beau.
+Il pleut maintenant.
+Le soleil brille.
+L'hiver est froid ici.
+L'été est ma saison préférée.
+Il neige en décembre.
+Le vent est fort.
+Je me lève à six heures.
+Nous dînons à huit heures.
+La nuit est sombre.
+Hier, c'était une bonne journée.
+Le temps est beau aujourd'hui.
+Mon anniversaire est en mai.
+Le ciel est gris.
+Le printemps vient après l'hiver.
+Il fait très chaud en juillet.
+La réunion commence dans dix minutes.
+Je travaille toute la semaine.
+L'horloge est cassée.
+Nous arrivons à midi.
+La nuit est calme.
+L'automne commence en septembre.
+Je vais à l'école chaque jour.
+Le professeur explique la leçon.
+Mon ami étudie l'anglais.
+Les élèves lisent un livre.
+Je travaille dans un bureau.
+Elle est infirmière.
+Il est ingénieur.
+L'examen était difficile.
+J'écris une lettre à mon patron.
+L'entreprise grandit.
+Nous avons une réunion à dix heures.
+Mon travail est intéressant.
+Les enfants apprennent le français.
+Il termine le travail à six heures.
+Je réponds au téléphone.
+La salle de classe est propre.
+Elle envoie un e-mail.
+Mon salaire est bas.
+Le projet est presque terminé.
+Ils étudient à la bibliothèque.
+Le médecin travaille la nuit.
+J'ai beaucoup de devoirs.
+L'équipe travaille bien ensemble.
+Il enseigne les mathématiques.
+Notre patron est très strict.
+J'ai mal à la tête.
+Elle a les cheveux longs.
+Mes yeux sont bleus.
+Il a un bras fort.
+L'enfant a de la fièvre.
+Je me sens malade aujourd'hui.
+Le médecin me donne des médicaments.
+Lavez-vous les mains avant de manger.
+J'ai un peu mal au dos.
+Elle s'est cassé la jambe.
+Le sommeil est important pour la santé.
+Il est à l'hôpital.
+Mes dents sont blanches.
+J'ai besoin de me reposer.
+L'infirmière est gentille.
+L'exercice est bon pour le corps.
+Son cœur bat vite.
+Elle se sent beaucoup mieux.
+Je bois de l'eau pour rester en bonne santé.
+La douleur n'est pas forte.
+La maison est grande.
+Fermez la porte, s'il vous plaît.
+La fenêtre est ouverte.
+Je m'assois sur la chaise.
+La table est dans la cuisine.
+Il y a une lampe sur le bureau.
+Mon lit est doux.
+Le livre est sous la table.
+Nous nettoyons la chambre le samedi.
+Les clés sont sur l'étagère.
+Il répare le vieux vélo.
+Le jardin est derrière la maison.
+J'ouvre la boîte.
+Le verre est sur la table.
+Mon téléphone est dans mon sac.
+Le mur est blanc.
+Elle fait la vaisselle.
+Le sol est froid.
+J'achète un nouveau miroir.
+L'horloge est sur le mur.
+Je suis très heureux.
+Elle est triste aujourd'hui.
+Il est en colère contre moi.
+L'histoire est drôle.
+Je me sens fatigué.
+Le film était ennuyeux.
+Elle a peur des chiens.
+Nous sommes fiers de toi.
+L'enfant est curieux.
+Il est très intelligent.
+Ce problème est facile.
+La question est difficile.
+Mon ami est toujours honnête.
+La chambre est belle.
+Il est plus âgé que moi.
+Sa voix est douce.
+Le test était simple.
+Je suis nerveux à propos de l'examen.
+Ils sont très sympathiques.
+L'histoire est triste.
+Ce café est fort.
+La voiture est chère.
+Je suis prêt maintenant.
+L'eau est propre.
+C'est un homme calme.
+Je marche jusqu'à l'école.
+Elle lit un journal.
+Il écrit dans son cahier.
+Ils jouent dans le jardin.
+Nous écoutons de la musique.
+J'ouvre la fenêtre.
+Elle ferme le livre.
+Il court chaque matin.
+Je parle un peu français.
+Elle chante très bien.
+Ils dansent ensemble.
+Nous nageons dans la mer.
+Il achète un nouveau livre.
+Je trouve la réponse.
+Elle aide sa mère.
+Nous attendons le bus.
+Il répond à la question.
+Je porte le sac lourd.
+Elle dessine une image.
+Ils construisent une maison.
+J'écoute attentivement.
+Il compte l'argent.
+Nous plantons un arbre.
+Elle se lave les mains.
+Je me souviens de votre nom.
+Un, deux, trois.
+Il y a cinq livres.
+J'ai dix doigts.
+La voiture rouge est à moi.
+Le ciel est bleu.
+Le vert est ma couleur préférée.
+Elle porte une robe jaune.
+Le mur est gris.
+Il a deux sœurs.
+Sept jours font une semaine.
+Le chat noir est doux.
+Je vois quatre oiseaux.
+La neige blanche est belle.
+Nous avons besoin de trois chaises.
+L'orange est sucrée.
+Mes chaussures sont brunes.
+Il y a douze mois.
+Elle a un sac rose.
+Neuf élèves sont absents.
+Les feuilles deviennent jaunes.
+Parlez-vous français ?
+Où habitez-vous ?
+Que voulez-vous ?
+Pourquoi êtes-vous triste ?
+Quand est-ce que ça commence ?
+Qui est cet homme ?
+Combien ça coûte ?
+Pouvez-vous m'aider ?
+Êtes-vous prêt ?
+La porte est-elle ouverte ?
+Aimez-vous le thé ?
+Quelle est votre couleur préférée ?
+Où est mon téléphone ?
+Quel âge avez-vous ?
+Habitent-ils ici ?
+Avez-vous vu le film ?
+Pleuvra-t-il demain ?
+Qui a écrit ce livre ?
+À quelle heure part le train ?
+Puis-je m'asseoir ici ?
+Les enfants jouent dehors.
+J'ai besoin de votre aide.
+Il me donne un cadeau.
+C'est une bonne idée.
+Nous sommes en retard.
+Le bus est plein.
+J'ai oublié mes clés.
+Elle trouve une petite pièce.
+La musique est trop forte.
+Il perd son chapeau.
+Le bébé rit.
+Je promets de venir.
+Ils vendent des fruits frais.
+L'histoire commence ici.
+Nous terminons le travail aujourd'hui.
+Je comprends la question.
+Elle n'oublie rien.
+L'homme ouvre la porte.
+Je garde la lettre.
+Le jeu commence maintenant.
+Il casse un verre.
+Nous partageons le pain.
+Elle choisit un livre.
+La route est fermée.
+Je vous envoie un message.
+Ils arrivent tôt.
+Le magasin vend des chaussures.
+Il répare le toit.
+Je bois une tasse de thé.
+Le feu est chaud.
